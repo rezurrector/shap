@@ -13,7 +13,6 @@ docs/_build
 shap/_cext.cpython-36m-darwin.so
 shap/_cext.cpython-35m-darwin.so
 javascript/build/*
-.vscode
 shap/_cext.so
 .DS_Store
 /notebooks/deep_explainer/mnist_data
@@ -95,3 +94,6 @@ docs/generated/shap.utils.sample.rst
 docs/generated/shap.utils.shapley_coefficients.rst
 docs/generated/shap.waterfall_plot.rst
 **/.coverage*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
